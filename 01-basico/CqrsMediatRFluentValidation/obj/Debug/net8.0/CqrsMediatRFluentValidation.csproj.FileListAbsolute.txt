@@ -60,3 +60,4 @@ C:/Users/Propietario/Downloads/CqrsMediatRFluentValidation/CqrsMediatRFluentVali
 /Users/alejandroramirezreyesbroxel/Downloads/cqrs-mediatr-fluent-validation/CqrsMediatRFluentValidation/obj/Debug/net8.0/CqrsMediatRFluentValidation.pdb
 /Users/alejandroramirezreyesbroxel/Downloads/cqrs-mediatr-fluent-validation/CqrsMediatRFluentValidation/obj/Debug/net8.0/CqrsMediatRFluentValidation.genruntimeconfig.cache
 /Users/alejandroramirezreyesbroxel/Downloads/cqrs-mediatr-fluent-validation/CqrsMediatRFluentValidation/obj/Debug/net8.0/ref/CqrsMediatRFluentValidation.dll
+/Users/alejandroramirezreyesbroxel/Downloads/cqrs-mediatr-fluent-validation/CqrsMediatRFluentValidation/obj/Debug/net8.0/CqrsMediatRFluentValidation.sourcelink.json
